@@ -36,7 +36,7 @@ function Header() {
                 </a>
              </NavMenu>
 
-             <UserImg src = "/images/sunil.jpg"/>
+             <UserImg src = "/images/mona.jpg"/>
         </Nav>
     )
 }
